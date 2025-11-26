@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://camo.githubusercontent.com/96aa1a00a5c85a5efbb0813eb389f84801c399ef93b87caef788bc409d7e1c42/68747470733a2f2f692e696d6775722e636f6d2f45435a4b6d6c4f2e676966" />
 
 <!--
 **podkrepie/podkrepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
